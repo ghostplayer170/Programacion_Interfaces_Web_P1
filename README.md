@@ -10,7 +10,7 @@ Bienvenidos a **BADTIPS.COM**, un proyecto único diseñado para inyectar sabidu
 ## Empezando
 Para experimentar esta mezcla única de sabiduría y tecnología, simplemente visitad [https://front-end-p1.deno.dev](https://front-end-p1.deno.dev). La interfaz intuitiva y el diseño retro os guiarán a través del proceso, haciendo que cada visita sea una nueva aventura en el aprendizaje.
 
-### Inspiración
+## Inspiración
 Inspirado en la estética y la sensación de las páginas web de los noventa, como [https://www.heavensgate.com/](https://www.heavensgate.com/), BadTips.com busca no solo educar sino también entretener, recordándoos los días en que Internet estaba lleno de maravillas por descubrir.
 
 ## Contribuciones
